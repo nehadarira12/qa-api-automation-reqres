@@ -104,7 +104,8 @@ Senior QA Automation Engineer
 
 ## 💡 Questions?
 For any queries or feedback, please open an issue or contact me directly.
-(nehakumar067@gmail.com)
+Email: [nehakumar067@gmail.com](mailto:nehakumar067@gmail.com)
+
 
 
 
