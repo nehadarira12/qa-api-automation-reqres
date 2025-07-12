@@ -99,12 +99,12 @@ tsconfig.json               # TypeScript configuration
 **Neha Kumari**  
 Senior QA Automation Engineer  
 [LinkedIn](https://www.linkedin.com/in/neha-kumari-istqb%C2%AE-ctfl-56b51a139/)
-[Email](mailto:nehakumar067@gmail.com)
 
 ---
 
 ## 💡 Questions?
 For any queries or feedback, please open an issue or contact me directly.
+(nehakumar067@gmail.com)
 
 
 
